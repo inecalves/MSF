@@ -1,0 +1,64 @@
+^_^
+
+1)
+    A) intensidade = módulo = 5
+    
+    B) vetor unitário = v/|v|  = (3,4)/5 = v_uni(⅗,⅘)
+    
+    C) 2 x (3,4) = (4,8)  ||(4,8)||=10
+
+
+
+2) 
+    arccos(4/sqrt(65))
+
+
+
+4)
+    Fx = F x cos(60)
+    F = 2,0/cos(60)
+    F = 4,0 N
+
+
+5)
+    A) 
+       Fx = F x cos(π/2)
+       Fx = 5,0 x 0
+       Fx = 0 N
+
+       Fy = 5 N
+
+       vetor = (0 , 5) 
+    
+    B)
+       Fx = F x cos(60°)
+       Fx = 5,0 x 1/2
+       Fx = 2.5 N
+
+       Fy = 5√3/2 N
+       vetor = (2.5 , 5√3/2)
+
+    C)
+       Fx = F x cos(-7π/6)
+       Fx = F x cos(5π/6)
+       Fx = 5,0 x -√3/2
+       Fx = -5√3/2 N
+
+       Fy = 2.5 N
+       vetor = (-5√3/2 , 2.5)
+    
+    D)
+       Fx = F x cos(310°) 
+       Fx = 5.0 x 0.64
+       Fx = 3.21 N
+
+       Fy = -3.83 N
+       vetor = (-2.65 , 4.15)
+
+
+7)
+    A)
+       V = (2,2t) m/s
+
+
+
