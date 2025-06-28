@@ -1,3 +1,0 @@
-idx=y.argmax()
-ymax=y[idx]
-tmax=t[idx]
